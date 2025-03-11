@@ -21,7 +21,8 @@ AMO: https://psl.noaa.gov/data/correlation/amon.sm.data
 PNA: https://www.cpc.ncep.noaa.gov/products/precip/CWlink/pna/norm.pna.monthly.b5001.current.ascii
 Hailstorm and Precipitation Data
 
-Weather Modification Inc.: https://weathermodification.com/
+Radar dataset can be accessed at:
+https://doi.org/10.5281/zenodo.15008662.
 Contact
 For questions or contributions, please contact:
 Issam Mohamed
