@@ -5,7 +5,7 @@ This repository contains scripts used for analyzing the relationship between sev
 
 Repository Contents
 data/ - Contains links to datasets used in the study (data not stored directly in GitHub).
-scripts/ - Python/R scripts for data preprocessing, analysis, and visualization.
+scripts/ - R scripts for data preprocessing, analysis, and visualization.
 README.md - This documentation file.
 Data Sources
 The datasets used in this study are publicly available:
